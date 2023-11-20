@@ -13,3 +13,16 @@
 | [Классификаиция клиентов телеком компании](https://github.com/babalich/yandex.practicum/blob/main/06%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/classification%20of%20clients.ipynb) | На основе данных предложить клиенту тариф.| *Pandas, Matplotlib, scikit-learn*|
 | [Классификаиция клиентов телеком компании](https://github.com/babalich/yandex.practicum/blob/main/07%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%20%D0%91%D0%B0%D0%BD%D0%BA%D0%B0/churn%20prediction.ipynb) | Прогнозирование оттока клиента Банка.| *Pandas, Matplotlib, scikit-learn*|
 | [Выбор локации для скважины](https://github.com/babalich/yandex.practicum/blob/main/08%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8/location.ipynb) | На основе данных геологи разведки выбрать район добычи нефти.| *Pandas, Matplotlib, scikit-learn*|
+| [Исследование технологического процесса очистки золота](https://github.com/babalich/yandex.practicum/blob/main/09%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0/tech%20research.ipynb) | Спрогнозировать концентрацию золота при проведении процесса очистки золота.| *Pandas, Matplotlib, Numpy, scikit-learn, Catboost*|
+
+
+
+
+
+
+
+
+
+
+
+
